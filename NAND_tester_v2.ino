@@ -1,6 +1,6 @@
 /*
- * NAND (74LS00 / 74LS00) tester by Nicu FLORICA (niq_ro)
- * based on OR (74HC32 / 74LS32) tester by Nicu FLORICA (niq_ro)
+ * NAND (74LS00 / 7400) tester by Nicu FLORICA (niq_ro)
+ * based on OR (7432 / 74LS32) tester by Nicu FLORICA (niq_ro)
  * v.0 - intial version
  * v.1 - addde serial info
  * v.2 - stable version
@@ -42,7 +42,7 @@ int pauzamare = 500;
 void setup() {
   Serial.begin(9600);
   Serial.println("-");
-  Serial.println("NAND gates teter (74LS00 / 74LS00 tester"); 
+  Serial.println("NAND gates teter (74LS00 / 7400 tester"); 
   Serial.println("------------------------------------"); 
   for (int i = 0; i < 4; i++) 
   {
