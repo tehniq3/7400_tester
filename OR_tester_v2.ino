@@ -1,6 +1,5 @@
 /*
- * NAND (74LS00 / 7400) tester by Nicu FLORICA (niq_ro)
- * based on OR (74HC32 / 7432) tester by Nicu FLORICA (niq_ro)
+ * OR (74HC32 / 7432) tester by Nicu FLORICA (niq_ro)
  * v.0 - intial version
  * v.1 - addde serial info
  * v.2 - stable version
