@@ -2,3 +2,7 @@
 info from https://www.build-electronic-circuits.com/7400-series-integrated-circuits/
 
 article: https://nicuflorica.blogspot.com/2024/10/tester-porti-logic-sau-or-743274ls32.html
+
+![schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS1iLhikKwe_n2RPONfyBSVvhkmay_bs7Hwl7FuG3zPxS25RmsfbkULbvH6mdXJV7UH7_uw28rhI4qCucFpZD78rfKceax3QX0qZc0bJU0C8KJFB0Z8rO5R1P90eUjaL4m56DKhfCgzdId7GZWm9hV56BZYYmO3aa8rkBBKzAYk-hOWPV-4yw-1BX72T2T/w200-h196/IC_gates_tester_sch.png)
+![real_ok](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmgrQCiVQ1qqBXDVx2WxByCba8QtOfvsPGiCgMctmWncZ3tbHJnrwAXjzfUCb2sUhTUX_U58_aj3_m2x6pbWF6GM6Jz3tJLh2MjaGpQYb1RFL_AuK7lx86vHBmZHIcJC0FIlw0unkKB1uc835L2u2vXTN15zjV1PJhc_2btOqC4wKtttjo4tD3TnWePb6p/w200-h150/IMG_20241005_150614.jpg)
+![rela_nok](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4apbgpiUulwEPnAh7PoyMzBGmIl8KLpKYKjk_b-811gevTQo76memw124-LnKdsw95sVQ08_7MqMS3s02Q6py2hamQzAWCkzGfgqzNp_kRxSdcOEZhxPFsFFy_6y-rSuwn5sqvUGaLOKnvNuzN4nmMwZW0jcGvfV8MXLAv6PtyjdQO79C1zGMs76xf2og/w200-h150/IMG_20241005_151348.jpg)
